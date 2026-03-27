@@ -1,4 +1,4 @@
-# Hi, I'm Paweł 👋
+# Hi there, I'm Paweł 👋
 
 Computer Science Student @ Warsaw University of Technology
 
